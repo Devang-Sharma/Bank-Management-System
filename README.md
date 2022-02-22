@@ -1,0 +1,2 @@
+# Bank-Management-System
+This mini-project is on a Customer Account Banking Management System and can perform operations like, creating a new account, updating information of an existing account, perform transactions, display the details of an existing account, delete an existing account and view the list of customers. The code is based on menu-driven programming and makes use of file handling to store data.
